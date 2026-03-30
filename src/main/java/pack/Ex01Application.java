@@ -11,7 +11,7 @@ public class Ex01Application {
 	@GetMapping("/")
 	public String hello() {
 		System.out.println("Ex01");
-		return "Ex01 Project: AM 09:21";
+		return "Ex01 Project: AM 15:34";
 	}
 
 	public static void main(String[] args) {
